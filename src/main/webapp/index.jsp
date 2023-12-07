@@ -95,7 +95,7 @@
                       01
                     </h5>
                     <h1>
-                      Fresh <br />
+                      Fresh Organic<br />
                       Vegetables
                     </h1>
                     <a href="" class="">
