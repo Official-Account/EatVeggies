@@ -96,6 +96,7 @@
         <div class="col-md-6 ml-auto ">
           <div class="detail-box">
             <div class="heading_container">
+			<h3>Welcome</h3>
               <h2>
                 We Provide <br>
                 Fresh Vegetables
